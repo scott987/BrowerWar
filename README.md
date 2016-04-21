@@ -4,6 +4,9 @@ Introduce of the Browser Wars
 #Fitst realese
 first release on ntnucic/BrowserWars
 
+#Browser
+recommand to use Edge, Firefox 40 up, cheome 40 up
+
 #Licence
 ##reveal.js
 MIT by Hakim El Hattab, http://hakim.se
